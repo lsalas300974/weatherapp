@@ -1,4 +1,4 @@
-# Use the official Golang image as a parent image
+# Use the official Golang image as a parent image #2
 FROM docker.io/golang:1.21.1-alpine
 
 ENV GO111MODULE=on
